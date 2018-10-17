@@ -5,3 +5,5 @@ And I will rewrite this code again.
 Added some information in sample.txt file in somecode branch.
 
 master information updated before merging of master and somecode branch
+
+edited in samplebranch branch.
