@@ -6,3 +6,5 @@ Added some information in sample.txt file in somecode branch.
 
 
 Added some line of code in childsomecode branch.
+
+changing some information in somecode and will merge it with master after changing some in master
