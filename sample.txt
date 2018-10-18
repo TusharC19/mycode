@@ -3,7 +3,9 @@ I have written this code.
 And I will rewrite this code again.
 
 Added some information in sample.txt file in somecode branch.
-
+And I love blue color // from TusharC19 forking example ,pull request
 master information updated before merging of master and somecode branch
 
 edited in samplebranch branch.
+
+added some information for forking from TusharC98 to TusharC19
