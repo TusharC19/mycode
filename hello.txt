@@ -4,3 +4,5 @@ Anothe one !!
 Yeah i'm Adding some info as per your issue request
 after (github status -ok) added some information.
 i added some information in mycode in Desktop folder.
+
+fixed your issue #11
