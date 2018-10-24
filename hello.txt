@@ -6,3 +6,5 @@ after (github status -ok) added some information.
 i added some information in mycode in Desktop folder.
 
 fixed your issue #11
+
+changed something on new local branch
